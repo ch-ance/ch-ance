@@ -1,23 +1,27 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import BlogPost from "../blog/BlogPost";
 import SiteNavigation from "../common/SiteNavigation";
 
-const Home: NextPage = () => {
+const Blog: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Chance Embrey-Farquhar</title>
+        <title>Chance's Blog</title>
         <meta
           name="description"
-          content="home page for Chance Embrey-Farquhar"
+          content="personal blog Chance Embrey-Farquhar"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
         <SiteNavigation />
       </header>
+      <main>
+        <BlogPost />
+      </main>
     </div>
   );
 };
 
-export default Home;
+export default Blog;
