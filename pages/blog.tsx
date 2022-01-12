@@ -7,7 +7,7 @@ const Blog: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Chance's Blog</title>
+        <title>Chance&apos;s Blog</title>
         <meta
           name="description"
           content="personal blog Chance Embrey-Farquhar"
