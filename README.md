@@ -1,1 +1,1 @@
-# [ch-ance.dev](https://chance.dev)
+# [ch-ance.dev](https://ch-ance.dev)
