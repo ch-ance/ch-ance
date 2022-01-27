@@ -14,11 +14,20 @@ export default function () {
         </p>
         <p>
           I'm in the process of building my portfolio site. I've learned how to
-          work with technology in
+          work with technology in powerful ways, and I would like to create a
+          home for my development content.
+        </p>
+        <p>
+          So far, the tech stack I'm using here is as follows:
+          <ul>
+            <li>React with Next.JS</li>
+            <li>TailwindCSS</li>
+            <li>Typescript</li>
+          </ul>
         </p>
       </section>
       <footer>
-        <time dateTime="2022-01-22">January 12, 2022</time>
+        <time dateTime="2022-01-26">January 26, 2022</time>
       </footer>
     </article>
   );
